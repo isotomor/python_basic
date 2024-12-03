@@ -1,0 +1,1 @@
+En esta carpeta hay apuntes o ejercicios de Python que realizamos despues del examen del Ramp-up.
